@@ -18,7 +18,7 @@
             }
         ]
     },
-    "icon": "images/icon.png",
+    "icon": "icons/icon.png",
     "author": {
         "name": "Monic"
     },
@@ -26,5 +26,5 @@
         "url": "https://github.com/nespinozacr/Monic-Theme",
         "type": "git"
     },
-    "publisher": "Monic"
+    "publisher": "nespinozacr"
 }
