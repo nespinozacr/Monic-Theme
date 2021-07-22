@@ -1,6 +1,7 @@
 <h1 align="center">Monic Theme</h1>
 <p>
 No se como editar un README.md espero quede bien xd.
+  
 I don't know how to edit a README.md I hope it's okay xd.
 </p>
 <h3>JavaScript Code</h3>
