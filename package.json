@@ -1,0 +1,30 @@
+{
+    "name": "monic",
+    "displayName": "Monic Theme",
+    "description": "Dark Visual Studio Code Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monic-color-theme.json"
+            }
+        ]
+    },
+    "icon": "images/icon.png",
+    "author": {
+        "name": "Monic"
+    },
+    "repository": {
+        "url": "https://github.com/nespinozacr/Monic-Theme",
+        "type": "git"
+    },
+    "publisher": "Monic"
+}
